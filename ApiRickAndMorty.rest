@@ -1,2 +1,9 @@
-
 GET http://localhost:3000/character
+###
+GET http://localhost:3000/character/1
+###
+GET http://localhost:3000/character/2
+###
+GET http://localhost:3000/character/3
+###
+GET http://localhost:3000/character/10
